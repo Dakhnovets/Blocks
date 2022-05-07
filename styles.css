@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    background: rgb(23, 23, 23);
+}
+
+img[title] {
+    float: left;
+    width: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: #fff;
+    font-size: 45px;
+}
+
+h2, h3 {
+    text-align: center;
+    vertical-align: text-top;
+    background: none;
+    color: black;
+    margin: 0 auto;
+    padding: 0;
+}
+
+del {
+    text-align: center;
+    vertical-align: text-top;
+    background: none;
+    color: black;
+    font-size: 14px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.wrap {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.box {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding: 10px;
+    margin: 20px -4px 20px 0;
+    width: 32%;
+    min-height: 470px;
+}
+
+.box-iPhone {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0 auto;
+    background: gray;
+    border: 2px solid #fff;
+    height: 470px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12 px 18 px;
+    margin: 0;
+    background: rgb(255, 255, 255);
+    color: black;
+    border-radius: 12px;
+    font-size: 26px;
+    line-height: 1.2;
+    border: 1px solid black;
+    text-decoration: none;
+}
+
+a {
+    text-align: center;
+    vertical-align: top;
+    background: none;
+    color: black;
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    vertical-align: top;
+    background: none;
+    font-size: 14px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+span {
+    color: #fff;
+}
